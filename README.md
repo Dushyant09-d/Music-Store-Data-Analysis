@@ -92,3 +92,15 @@ invoice_id	Unique invoice ID
 customer_id	Customer reference
 invoice_date	Date of purchase
 total	Invoice total
+
+MUSIC-STORE-DATA-ANALYSIS/
+│
+├── README.md
+│
+├── database/
+│   └── music_store_database.sql
+│
+└── queries/
+    ├── easy_queries.sql
+    ├── moderate_queries.sql
+    └── advanced_queries.sql
